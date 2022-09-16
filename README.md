@@ -12,8 +12,9 @@ Software Developer and Architect. Passionate about scalability and distributed s
 - 📫 How to reach me: ankit.joinwal@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ I enjoy: Reading blogs while I am not spending time with family.
+============================
 
-## Stack I work with
+### Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img height="50" src="https://img.icons8.com/dusk/344/scala.png"></code>
@@ -24,9 +25,11 @@ Software Developer and Architect. Passionate about scalability and distributed s
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 ============================
+
 ### Social Media Handles
 [![Linkedin](https://img.shields.io/badge/-Ankit%20Joinwal-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ankitjoinwal/)
 ============================
+
 ### 📝 My Latest Blog Post in Medium
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ankit-joinwal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ankit-joinwal/0" alt="Recent Article 0"> 
 
@@ -34,6 +37,7 @@ Software Developer and Architect. Passionate about scalability and distributed s
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ankit-joinwal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ankit-joinwal/2" alt="Recent Article 2"> 
 ============================
+
 ### Badges
 | <a href="https://github.com/ankit-joinwal/ankit-joinwal"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-joinwal&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Ankit's github stats" /></a> | <a href="https://github.com/ankit-joinwal/ankit-joinwal"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-joinwal&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | -------------
