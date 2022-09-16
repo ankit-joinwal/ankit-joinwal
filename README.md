@@ -11,7 +11,8 @@ Software Developer and Architect. Passionate about scalability and distributed s
 - 👯 I’m looking to collaborate on : Java
 - 📫 How to reach me: ankit.joinwal@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ I enjoy: Reading blogs while I am not spending time with family.
+- ⚡ I enjoy: Reading blogs while I am not spending time with family. 
+
 ============================
 
 ### Stack I work with
