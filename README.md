@@ -32,7 +32,7 @@ Software Developer and Architect. Passionate about scalability and distributed s
 ============================
 
 ### 📝 My Latest Blog Post in Medium
- <a target="_blank" href="https://ankit-joinwal.medium.com/break-api-silos-in-your-organisation-with-graphql-federation-part-1-9d85143f7b5d"><img src="https://ankit-joinwal.medium.com/break-api-silos-in-your-organisation-with-graphql-federation-part-1-9d85143f7b5d" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ankit-joinwal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ankit-joinwal/0" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ankit-joinwal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ankit-joinwal/1" alt="Recent Article 1"> 
 
